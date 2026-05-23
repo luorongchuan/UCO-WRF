@@ -10,12 +10,20 @@ Compared to existing baselines like standard Best-of-N (BoN), Self-Consistency, 
 
 ## 🚀 Quick Start
 
-### Step 1: Clone this repository
+### Step 1: Clone this repository and install dependencies
 
 ```bash
-git clone [https://github.com/Albertwyk/OptScale.git](https://github.com/Albertwyk/OptScale.git)
+git clone https://github.com/Albertwyk/OptScale.git
 cd OptScale
 # Install dependencies
 pip install -r requirements.txt
+```
+
+### Step 2: Download and place the data files
+
+You can download the required datasets and model completions from Baidu Netdisk:
+- [Baidu Netdisk ](https://pan.baidu.com/s/1t5U6E5MAt3Rwj4DnjuzG2g?pwd=1234) (Extraction code: `[1234]`)
+
+After downloading, please extract the files to the repository root.
 
 
