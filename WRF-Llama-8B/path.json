@@ -1,0 +1,27 @@
+{
+  "AIME24": {
+    "prompts": "../../data/test_prompts/aime24.json",
+    "completions": "../../data/completions/llama8b/parallel/scored_aime24_llama8b.json",
+    "prompt_key": "problem"
+  },
+  "AIME25": {
+    "prompts": "../../data/test_prompts/aime25.json",
+    "completions": "../../data/completions/llama8b/parallel/scored_aime25_llama8b.json",
+    "prompt_key": "question"
+  },
+  "MATH500": {
+    "prompts": "../../data/test_prompts/math500_test.json",
+    "completions": "../../data/completions/llama8b/parallel/scored_math500_llama8b.json",
+    "prompt_key": "problem"
+  },
+  "AMC23": {
+    "prompts": "../../data/test_prompts/amc23.json",
+    "completions": "../../data/completions/llama8b/parallel/scored_amc23_llama8b.json",
+    "prompt_key": "problem"
+  },
+  "GSM8K": {
+    "prompts": "../../data/test_prompts/gsm8k_test.json",
+    "completions": "../../data/completions/llama8b/parallel/scored_gsm8k_llama8b.json",
+    "prompt_key": "question"
+  }
+}
