@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ### Step 2: Download and place the data files
 
 You can download the required datasets and model completions from Baidu Netdisk:
-- [Baidu Netdisk ](https://pan.baidu.com/s/1t5U6E5MAt3Rwj4DnjuzG2g?pwd=1234) (Extraction code: `[1234]`)
+- [Baidu Netdisk ]([https://pan.baidu.com/s/1t5U6E5MAt3Rwj4DnjuzG2g?pwd=1234](https://pan.baidu.com/s/1G-9GD1EALkosiVBDeg-ruA)) (Extraction code: `[1234]`)
 
 After downloading, please extract the files to the repository root.
 
