@@ -15,6 +15,7 @@ Compared to existing baselines like standard Best-of-N (BoN), Self-Consistency, 
 ```bash
 git clone [https://github.com/Albertwyk/OptScale.git](https://github.com/Albertwyk/OptScale.git)
 cd OptScale
+# Install dependencies
+pip install -r requirements.txt
 
 
-### Step 2: Clone this repository
