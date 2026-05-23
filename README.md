@@ -26,4 +26,29 @@ You can download the required datasets and model completions from Baidu Netdisk:
 
 After downloading, please extract the files to the repository root.
 
+### Step 3: Repository Structure
+
+```text
+.
+├── MRT-r1_distill_llama8b/      # MR-Thinking baseline implementations (Llama-8B)
+├── MRT-r1_distill_qwen7b/       # MR-Thinking baseline implementations (Qwen-7B)
+├── SC-r1_distill_llama8b/       # Self-Consistency baselines (Llama-8B)
+├── SC-r1_distill_qwen7b/        # Self-Consistency baselines (Qwen-7B)
+├── WRF-Llama-8B/                # UCO-WRF method implementation (Standard Llama-8B)
+├── WRF-r1_distill_llama8b/      # UCO-WRF method implementation (Llama-8B)
+├── WRF-r1_distill_qwen7b/       # UCO-WRF method implementation (Qwen-7B)
+├── train_predictor/             # Scripts and data for training the predictor
+├── README.md                    # This document
+└── requirements.txt             # Project dependencies
+
+
+
+
+
+
+
+
+
+
+
 
