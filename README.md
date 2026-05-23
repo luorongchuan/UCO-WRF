@@ -1,6 +1,6 @@
-# [# [你的论文完整英文标题]
+# [# [UCO-WRF:Uncertainty-Calibrated Dynamic OptScale and Weighted Reward Frequency Aggregation]
 
-This repository contains the official implementation for the paper: **"[你的论文标题]"**.
+This repository contains the official implementation for the paper: **"[UCO-WRF:Uncertainty-Calibrated Dynamic OptScale and Weighted Reward Frequency Aggregation]"**.
 
 ## 💡 Introduction
 
